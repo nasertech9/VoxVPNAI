@@ -1,0 +1,6 @@
+{
+  "name": "VoxVPNAI",
+  "description": "A production-ready VPN service dashboard featuring real-time connection simulation, server selection, speed gauges, and glassmorphism UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
